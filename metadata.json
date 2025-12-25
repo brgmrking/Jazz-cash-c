@@ -1,0 +1,7 @@
+{
+  "name": "JazzCash Clone Demo",
+  "description": "A high-fidelity visual replica of the JazzCash mobile app with simulated local logic and mock data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
